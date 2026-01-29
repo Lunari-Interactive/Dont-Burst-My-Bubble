@@ -129,5 +129,5 @@ TatteredMayonez
 [issues-shield]: https://img.shields.io/github/issues/Lunari-Interactive/Dont-Burst-My-Bubble.svg?style=for-the-badge
 [issues-url]: https://github.com/Lunari-Interactive/Dont-Burst-My-Bubble/issues
 [license-shield]: https://img.shields.io/github/license/Lunari-Interactive/Dont-Burst-My-Bubble.svg?style=for-the-badge
-[license-url]: https://github.com/Lunari-Interactive/Dont-Burst-My-Bubble/blob/main/LICENSE.txt
+[license-url]: https://github.com/Lunari-Interactive/Dont-Burst-My-Bubble/blob/main/LICENSE
 [product-screenshot]: Images/LunariInteractive.png
