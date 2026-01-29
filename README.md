@@ -9,7 +9,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Lunari-Interactive/Dont-Burst-My-Bubble">
-    <img src="Images/LunariInteractive.png" alt="Logo" width="80" height="80">
+    <img src="Assets/PNGs/Bubble/Bubble.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Don't Burst My Bubble!</h3> 
@@ -58,7 +58,11 @@ Challenge your friends in this local multiplayer submarine shooter! You captain 
 
 
 
-(Indie Games Group Philippines - Global Game Jam 2025 Submission)
+(Indie Games Group Philippines - Global Game Jam 2025 Submission) <br />
+
+  <a href="https://github.com/Lunari-Interactive/Dont-Burst-My-Bubble">
+    <img src="Assets/PNGs/Don'tBurstMyBubbleCoverArt.png" alt="Logo" width="640" height="480">
+  </a>
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
@@ -130,4 +134,4 @@ TatteredMayonez
 [issues-url]: https://github.com/Lunari-Interactive/Dont-Burst-My-Bubble/issues
 [license-shield]: https://img.shields.io/github/license/Lunari-Interactive/Dont-Burst-My-Bubble.svg?style=for-the-badge
 [license-url]: https://github.com/Lunari-Interactive/Dont-Burst-My-Bubble/blob/main/LICENSE
-[product-screenshot]: Images/LunariInteractive.png
+[product-screenshot]: Assets/PNGs/Don'tBurstMyBubbleCoverArt.png
