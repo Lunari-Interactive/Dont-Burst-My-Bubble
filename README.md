@@ -12,10 +12,10 @@
     <img src="Images/LunariInteractive.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Game Development Workshop Demo</h3> 
+<h3 align="center">Don't Burst My Bubble!</h3> 
 
   <p align="center">
-     A Video Game Starter Template made in Unity.
+     Challenge your friends in this local multiplayer submarine shooter!
     <br />
  <!--   <a href="https://github.com/Lunari-Interactive/Dont-Burst-My-Bubble"><strong>Explore the docs »</strong></a> 
     <br /> -->
@@ -86,7 +86,7 @@ Challenge your friends in this local multiplayer submarine shooter! You captain 
    git clone https://github.com/Lunari-Interactive/Dont-Burst-My-Bubble.git
    ```
 2. Open Unity Hub <br />
-3. On Projects Add (GD-Workshop-Demo\IntroToUnity)<br />
+3. On Projects Add (Dont-Burst-My-Bubble/IGG-GlobalGameJam2025_Game)<br />
 4. Select Editor version 2022.3.56f1 <br />
 
 
