@@ -1,16 +1,129 @@
-Idea 1 Bubble Blow:
->Goal: Don't let bubble touch the edges of the screen
->Lasers can spawn and burst your bubble
->Other bubbles can merge with your bubble making it big and hard to control
->Powerups !!!!
+<a name="readme-top"></a>
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
 
-Idea 2 Bubble Blast:
->Goal: Eliminate other players
->Pop enemy's bubble and then destroy the enemy's ship
->Powerups !!!
->Maps !!!
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/Lunari-Interactive/Dont-Burst-My-Bubble">
+    <img src="Images/LunariInteractive.png" alt="Logo" width="80" height="80">
+  </a>
 
-Idea 3 ???:
->Goal: Use Fan to move bubble to finish line
->Maps !!
->Levels !!!
+<h3 align="center">Game Development Workshop Demo</h3> 
+
+  <p align="center">
+     A Video Game Starter Template made in Unity.
+    <br />
+ <!--   <a href="https://github.com/Lunari-Interactive/Dont-Burst-My-Bubble"><strong>Explore the docs »</strong></a> 
+    <br /> -->
+    <br />
+    <a href="https://github.com/Lunari-Interactive/Dont-Burst-My-Bubble">View Demo</a>
+    ·
+    <a href="https://github.com/Lunari-Interactive/Dont-Burst-My-Bubble/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    ·
+    <a href="https://github.com/Lunari-Interactive/Dont-Burst-My-Bubble/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+  </p>
+</div>
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
+
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+A simple platformer made as a Starter Template for Video Game Development. Created to immerse students of video game development as an introduction to the Unity Game Engine in a workshop environment @Rizal Technological University
+
+<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
+
+### Built With
+
+* ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+* ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+* ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+### Prerequisites
+* [Unity Hub](https://unity.com/download#how-get-started)
+* Unity Free Personal License
+* [Unity Version 2022.3.56f1 LTS Release](https://unity.com/releases/editor/qa/lts-releases?version=2022.3&major_version=2022&minor_version=3&page=2#:~:text=December%201%2C%202022-,LTS%20Release,2022.3.56f1,-Released%3A%20November)
+* [Visual Studio 2022 with Unity Game Development Tools](https://visualstudio.microsoft.com/vs/unity-tools/)
+
+### Installation
+
+1. Clone the repo or get it from [Releases](https://github.com/Lunari-Interactive/Dont-Burst-My-Bubble/releases)
+   ```sh
+   git clone https://github.com/Lunari-Interactive/Dont-Burst-My-Bubble.git
+   ```
+2. Open Unity Hub <br />
+3. On Projects Add (GD-Workshop-Demo\IntroToUnity)<br />
+4. Select Editor version 2022.3.56f1 <br />
+
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+
+
+<!-- CONTACT -->
+## Contact
+FrenzyyLumina - [@FrenzyyLumina](https://FrenzyyLumina) 
+<br />
+TatteredMayonez 
+
+
+
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgements
+
+* []()
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/Lunari-Interactive/Dont-Burst-My-Bubble.svg?style=for-the-badge
+[contributors-url]: https://github.com/Lunari-Interactive/Dont-Burst-My-Bubble/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Lunari-Interactive/Dont-Burst-My-Bubble.svg?style=for-the-badge
+[forks-url]: https://github.com/Lunari-Interactive/Dont-Burst-My-Bubble/network/members
+[stars-shield]: https://img.shields.io/github/stars/Lunari-Interactive/Dont-Burst-My-Bubble.svg?style=for-the-badge
+[stars-url]: https://github.com/Lunari-Interactive/Dont-Burst-My-Bubble/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Lunari-Interactive/Dont-Burst-My-Bubble.svg?style=for-the-badge
+[issues-url]: https://github.com/Lunari-Interactive/Dont-Burst-My-Bubble/issues
+[license-shield]: https://img.shields.io/github/license/Lunari-Interactive/Dont-Burst-My-Bubble.svg?style=for-the-badge
+[license-url]: https://github.com/Lunari-Interactive/Dont-Burst-My-Bubble/blob/main/LICENSE.txt
+[product-screenshot]: Images/LunariInteractive.png
