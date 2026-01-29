@@ -54,7 +54,11 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-A simple platformer made as a Starter Template for Video Game Development. Created to immerse students of video game development as an introduction to the Unity Game Engine in a workshop environment @Rizal Technological University
+Challenge your friends in this local multiplayer submarine shooter! You captain a submarine protected by a bubble and it's up to you to destroy your friends with an array of power ups and an explosive amount of torpedoes. Shoot, pop, and detonate your friend's submarines before they outgun you.
+
+
+
+(Indie Games Group Philippines - Global Game Jam 2025 Submission)
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
